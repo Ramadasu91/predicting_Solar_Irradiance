@@ -1,0 +1,6 @@
+six
+python-dateutil
+Flask
+numpy
+pandas
+scikit-learn
